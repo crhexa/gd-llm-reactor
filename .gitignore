@@ -1,2 +1,7 @@
+.sconsign*
 godot
 extension_api.json
+*.o
+
+bin/
+.vscode/
